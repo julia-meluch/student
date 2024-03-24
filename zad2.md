@@ -65,6 +65,20 @@ Przykład kodu *Latex* i wygenerowanego pliku w formacie *pdf*
 \end{document}
 ```
 ![grafika2](grafika2.png)
+
+Przykład kodu *XML* – fragment dokumentu *SVG* (Scalar Vector Graphics)
+```html
+<!DOCTYPE html>
+<html>
+<body>
+<svg height="100" width="100">
+ <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+</svg>
+ </body>
+</html>
+```
+![grafika3](grafika3.png)
+
 ## Podstawy składni
 ### Definiowanie nagłówków
 ### Definiowanie list

@@ -192,6 +192,6 @@ Pod adresem (https://gitlab.com/mniewins66/templatemn.git) znajduje się przykł
 
 W tym celu należy wydać polecenie z poziomu terminala:
 
-```latex $pandoc templateMN.md -t beamer -o prezentacja.pdf ```
+``` $pandoc templateMN.md -t beamer -o prezentacja.pdf ```
 
 

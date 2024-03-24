@@ -45,7 +45,6 @@ Przykład kodu html i jego interpretacja w przeglądarce:
 </html>
 ```
 
-[html](grafika1.png)
 ![alt text](grafika1.png)
 ## Podstawy składni
 ### Definiowanie nagłówków

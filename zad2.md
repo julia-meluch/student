@@ -24,7 +24,7 @@
 
 5. [Pandoc - system do konwersji dokumentów Markdown do innych formatów](#pandoc---system-do-konwersji-dokumentów-markdown-do-innych-formatów)
 
-## Wstęp
+## **Wstęp**
 Obecnie powszechnie wykorzystuje się języki ze znacznikami do opisania dodatkowych informacji
 umieszczanych w plikach tekstowych. Z pośród najbardziej popularnych można wspomnieć o:
 1. **html** – służącym do opisu struktury informacji zawartych na stronach internetowych,

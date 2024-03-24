@@ -142,7 +142,27 @@ Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znak
 [1]: http://google.com
 ```
 ### Obrazki
+```markdown
+![alt text](https://server.com/images/icon48.png "Logo 1") – obrazek z zasobów
+internetowych
+![](logo.png) – obraz z lokalnych zasobów
+```
+
 ### Kod źródłowy dla różnych języków programowania
+
+![grafika8](grafika8.png)
+
 ### Tworzenie spisu treści na podstawie nagłówków
+
+![grafika9](grafika9.png)
+
 ## Edytory dedykowane
+
+Pracę nad dokumentami w formacie Markdown( rozszerzenie md) można wykonywać w dowolnym edytorze tekstowym. Aczkolwiek istnieje wiele dedykowanych narzędzi
+1. marktext - https://github.com/marktext/marktext
+2. https://hackmd.io/ online editor
+3. Visual Studio Code z wtyczką „markdown preview”
+
+![grafika10](grafika10.png)
+
 ## Pandoc - system do konwersji dokumentów Markdown do innych formatów

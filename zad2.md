@@ -127,13 +127,17 @@ Listy nienumerowane definiujemy znakami: *,+,-
 ### Tabele
 
 ![grafika7](grafika7.png)
+
 Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znaku dwukropka:
 
 ### Odnośniki do zasobów
 
 [odnośnik do zasobów](www.gazeta.pl)
+
 [odnośnik do pliku](LICENSE.md)
+
 [odnośnik do kolejnego zasobu][1]
+
 [1]: http://google.com
 ### Obrazki
 ### Kod źródłowy dla różnych języków programowania

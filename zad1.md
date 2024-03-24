@@ -16,5 +16,5 @@ Linki:
 * [Najlepszy słownik](https://www.diki.pl/)
 * [Lista na czasie w youtube](https://www.youtube.com/feed/trending?bp=6gQJRkVleHBsb3Jl)
 
-**Kapibary** są  ~~~nie~~~ *fajne*.
+**Kapibary** są  ~~nie~~ *fajne*.
 

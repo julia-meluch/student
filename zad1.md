@@ -17,4 +17,7 @@ Linki:
 * [Lista na czasie w youtube](https://www.youtube.com/feed/trending?bp=6gQJRkVleHBsb3Jl)
 
 **Kapibary** są  ~~nie~~ *fajne*.
+$$
+\Phi=K_m\int_{0}^{\infty}{\frac{d\Phi_e\left(\lambda\right)}{d\lambda}V\left(\lambda\right)d\lambda}
+$$
 

@@ -159,8 +159,11 @@ internetowych
 ## Edytory dedykowane
 
 Pracę nad dokumentami w formacie Markdown( rozszerzenie md) można wykonywać w dowolnym edytorze tekstowym. Aczkolwiek istnieje wiele dedykowanych narzędzi
+
 1. marktext - https://github.com/marktext/marktext
+   
 2. https://hackmd.io/ online editor
+  
 3. Visual Studio Code z wtyczką „markdown preview”
 
 ![grafika10](grafika10.png)
@@ -169,6 +172,7 @@ Pracę nad dokumentami w formacie Markdown( rozszerzenie md) można wykonywać w
 
 
 Jest oprogramowanie typu open source służące do konwertowania dokumentów pomiędzy różnymi formatami.
+
 Pod poniższym linkiem można obejrzeć przykłady użycia:
 
 https://pandoc.org/demos.html

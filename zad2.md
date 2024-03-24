@@ -46,6 +46,25 @@ Przykład kodu html i jego interpretacja w przeglądarce:
 ```
 
 ![alt text](grafika1.png)
+
+Przykład kodu *Latex* i wygenerowanego pliku w formacie *pdf*
+
+```latex
+\documentclass[]{letter}
+\usepackage{lipsum}
+\usepackage{polyglossia}
+\setmainlanguage{polish}
+\begin{document}
+\begin{letter}{Szanowny Panie XY}
+\address{Adres do korespondencji}
+\opening{}
+\lipsum[2]
+\signature{Nadawca}
+\closing{Pozdrawiam}
+\end{letter}
+\end{document}
+```
+![grafika2](grafika2.png)
 ## Podstawy składni
 ### Definiowanie nagłówków
 ### Definiowanie list

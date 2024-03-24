@@ -132,6 +132,7 @@ Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znak
 
 ### Odnośniki do zasobów
 
+```markdown
 [odnośnik do zasobów](www.gazeta.pl)
 
 [odnośnik do pliku](LICENSE.md)
@@ -139,6 +140,7 @@ Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znak
 [odnośnik do kolejnego zasobu][1]
 
 [1]: http://google.com
+```
 ### Obrazki
 ### Kod źródłowy dla różnych języków programowania
 ### Tworzenie spisu treści na podstawie nagłówków

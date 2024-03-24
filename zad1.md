@@ -1,1 +1,1 @@
-
+![Zmęczona kapibara](kapibara.jpeg)

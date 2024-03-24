@@ -107,12 +107,14 @@ Wszystkie te języki znaczników cechują się rozbudowaną i złożoną składn
 Podany link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet zawiera opis podstawowych elementów składni w języku angielskim. Poniżej zostanie przedstawiony ich krótki opis w języku polskim.
 ### Definiowanie nagłówków
 W tym celu używamy znaku kratki
+
 Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
 ![grafika4](grafika4.png)
 
 ### Definiowanie list
 
 ![grafika5](grafika5.png)
+
 Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kropką.
 Listy nienumerowane definiujemy znakami: *,+,-
 ### Wyróżnianie tekstu

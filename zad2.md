@@ -46,6 +46,7 @@ Przykład kodu html i jego interpretacja w przeglądarce:
 ```
 
 [html](grafika1.png)
+[grafika1.png]
 ## Podstawy składni
 ### Definiowanie nagłówków
 ### Definiowanie list

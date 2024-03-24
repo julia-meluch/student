@@ -104,6 +104,7 @@ Wszystkie te języki znaczników cechują się rozbudowaną i złożoną składn
 + Markdown Extra.
 
 ## Podstawy składni
+Podany link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet zawiera opis podstawowych elementów składni w języku angielskim. Poniżej zostanie przedstawiony ich krótki opis w języku polskim.
 ### Definiowanie nagłówków
 ### Definiowanie list
 ### Wyróżnianie tekstu

@@ -78,6 +78,7 @@ Przykład kodu *XML* – fragment dokumentu *SVG* (Scalar Vector Graphics)
 </html>
 ```
 ![grafika3](grafika3.png)
+
 W tym przypadku mamy np. znacznik np. <circle> opisujący parametry koła i który może być właściwie zinterpretowany przez dedykowaną aplikację (np. przeglądarki www).
 
 Jako ciekawostkę można podać fakt, że również pakiet MS Office wykorzystuje format XML do przechowywania informacji o dodatkowych parametrach formatowania danych. Na przykład pliki z rozszerzeniem docx, to nic innego jak spakowane algorytmem zip katalogi z plikami xml.
